@@ -43,19 +43,7 @@
 
 ---
 
-# 💻 Competitive Programming
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<a href="https://leetcode.com/u/mahak_lohani_27/">
-<img src="https://leetcard.jacoblin.cool/mahak_lohani_27?theme=dark&font=Nunito&ext=heatmap" />
-</a>
-</td>
-</tr>
-</table>
-
----
 
 # 🎯 Current Focus
 - 📚 Strengthening **C programming** basics  
